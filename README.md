@@ -20,3 +20,4 @@ Para añadir un archivo a nuestro repositorio de [GitHub][def].
 'git push'
 
 ```
+!(https://myoctocat.com/assets/images/base-octocat.svg)
