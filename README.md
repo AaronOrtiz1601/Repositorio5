@@ -10,8 +10,8 @@ Para añadir un archivo a nuestro repositorio de [GitHub][def].
 [def]: https://pages.github.com/
 
 ```
-'git add fichero'`#0969DA`
-'git commit m-"Comentario sobre el commmit"'`#0969DA`
-'git push'`#0969DA`
+'git add fichero'
+'git commit m-"Comentario sobre el commmit"'
+'git push'
 
 ```
