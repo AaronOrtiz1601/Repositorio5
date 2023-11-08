@@ -8,10 +8,10 @@ Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este reposito
 ## Flujo de trabajo de GIT
 Para añadir un archivo a nuestro repositorio de [GitHub][def].
 [def]: https://pages.github.com/
-'''
+
+```
 'git add fichero'
 'git commit m-"Comentario sobre el commmit"'
 'git push'
 
-'''
-s
+```
