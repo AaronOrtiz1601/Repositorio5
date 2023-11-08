@@ -11,7 +11,12 @@ Para añadir un archivo a nuestro repositorio de [GitHub][def].
 
 ```
 'git add fichero'
+
+```
+```
 'git commit m-"Comentario sobre el commmit"'
+```
+```
 'git push'
 
 ```
